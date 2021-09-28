@@ -1,10 +1,14 @@
 from im import *
 import os
 from pyngrok import ngrok
+import zipfile
 
 print('This tool is for educational purpose only\n')
 print('Upgraded by:git-arbaaz29\n')
 print('You need to be a verified user of ngrok to use this tool')
+print('The Sites folder is be unzipped wait for some time')
+with zipfile.ZipFile('sites.zip','r') as zip_ref:
+    zip_ref.extractall()
 print('Please choose from the following templates:')
 def menu():
     templates = {
