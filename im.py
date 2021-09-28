@@ -15,7 +15,7 @@ def checkng():
             zip_ref.extractall()
             os.chmod('ngrok', stat.S_IXOTH)
     else:
-        print("This tool has yet to be released for MACos!!")
+        print("This tool works on linux for time being!!")
 def start_php():
     suprocess = subprocess.Popen("php -S 127.0.0.1:80 ", shell=True, stdout=subprocess.PIPE)
     time.sleep(2)
