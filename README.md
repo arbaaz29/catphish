@@ -3,7 +3,8 @@ This is a phishing tool only available for educational purposes only
 And can only be used on linux operating system!!
 
 ##### The tool is completely free
-####  FOR ANY SUGGESTION CONTACT :@arbaazjamadar_ on Instagram!
+####  FOR ANY SUGGESTION CONTACT :@arbaazjamadar_ on Instagram!\
+#### You require a verified Ngrok account
 
 -----------------------------------------------------------------------------------------------------------------------------
 #### Credits (Copyright)
